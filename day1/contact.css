@@ -1,0 +1,21 @@
+#head1{
+    text-align: center;
+}
+
+
+
+#submit{
+    text-align: center;
+}
+
+#tb {
+    margin-left: 30%;
+    background-color: gray;
+}
+textarea{
+    background-color: lightgray;
+}
+
+input{
+    background-color: lightgray;
+}

@@ -1,0 +1,101 @@
+.img1{
+    border-radius: 40px;
+    margin-left: 450px;
+    margin-top: 10px;
+}
+
+span{
+    font-size: 40px;
+    margin-left: 20px;
+    
+    padding : 10px;
+    color: darkgreen;
+    font-family: cursive;
+}
+header{
+ border: 2px outset green; 
+}
+
+
+body{
+    background-image: url(F1.webp);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover; 
+   /*0 background: linear-gradient(100deg,cyan,blue, cyan);
+   background: radial-gradient(circle,cyan,blue,cyan);*/
+}
+
+.links{
+    font-size: 30px;
+    text-decoration: none;
+    
+    padding: 10px;
+    color: black;
+    margin-left: 130px;
+   border-radius: 20px;
+   
+    border: 1px solid turquoise;
+    background-color: royalblue;
+
+  
+}
+nav{
+    position: sticky;
+    top: 0px;
+}
+.headings{
+    margin-left: 600px;
+    margin-top: 0px;
+    box-shadow: 20px 10px 30px lime;
+    width: 150px;
+    text-align: center;
+    background-color: rgba(0, 250, 25, .4);
+    cursor: pointer;
+    margin-top: 50px;
+
+}
+.links:hover{
+
+    background-color:lightblue;
+}
+
+.img2{
+    border-radius: 30%;
+    margin-top: 40px;
+    padding: 10px;
+}
+.img3{
+    border-radius: 30%;
+    margin-top: 20px;
+    padding: 10px;
+    margin-left: 30px;
+    
+}
+
+.content2{
+    width: 500px;
+    box-shadow: 20px 20px 20px lightblue;
+    padding: 20px;
+    background-color: lightblue;
+    font-size: 25px;
+    word-spacing: 20px;
+    margin-left: 700px;
+    margin-top: -350px;
+}
+
+.content{
+    width: 600px;
+    box-shadow: 20px 10px 30px lightblue;
+    color: black;
+    padding: 20px;
+    font-size: 25px;
+    word-spacing: 20px;
+    line-height: 30px;
+    margin-left: 700px;
+    margin-top: -400px;
+
+    
+    
+    background-color:lightblue;
+}

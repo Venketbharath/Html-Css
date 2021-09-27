@@ -1,0 +1,70 @@
+
+
+#a1{
+   color: white;
+  
+
+   
+}
+#nav1{
+    height: 40px;
+    
+}
+
+#nav2{
+    height: 60px;
+    position: fixed;
+    width: 0in ;
+}
+
+#span1{
+    margin: 700px;
+}
+
+#sap2{
+    margin-left: 80px;
+}
+
+#sap3{
+    margin-left: 10px;
+}
+
+#a3{
+    margin-left: 100px;
+    margin-right: 280px;
+    text-decoration: none;
+  color: black;
+  font-size: 200%;
+    
+}
+
+.a4{
+    margin-left: 20px;
+    text-decoration: none;
+  color: black;
+  font-size: 150%;
+    
+}
+
+#drop1{
+    margin-left: 1000px;
+}
+#a5{
+    margin-left: 20px;
+    text-decoration: none;
+  color: black;
+  font-size: 150%;
+}
+.ul1{
+    display: flex;
+    list-style: none;
+} 
+#cont1{
+    background-image: url("427852.jpg");
+    height: 480px;
+
+}
+
+
+
+

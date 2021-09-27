@@ -1,0 +1,9 @@
+<HTML>
+<HEAD>
+<TITLE>THREE</TITLE>
+</HEAD>
+<BODY>
+<h1>This is heading 1</h1>
+<img src="w3schools.jpg" alt="w3school.com" width="104" height="142">
+</BODY>
+</HTML>
